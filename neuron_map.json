@@ -1,0 +1,13 @@
+{
+    "sensor_inputs": [
+        0,
+        1,
+        2,
+        3,
+        4
+    ],
+    "motor_outputs": {
+        "steering": 45,
+        "thrust": 46
+    }
+}
